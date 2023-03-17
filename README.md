@@ -1,8 +1,11 @@
 # raw_sync
-[![Build Status](https://github.com/elast0ny/raw_sync-rs/workflows/build/badge.svg)](https://github.com/elast0ny/raw_sync-rs/actions?query=workflow%3Abuild)
+
+[![Build Status](https://github.com/haixuantao/raw_sync-rs/workflows/build/badge.svg)](https://github.com/haixuantao/raw_sync-rs/actions?query=workflow%3Abuild)
 [![crates.io](https://img.shields.io/crates/v/raw_sync.svg)](https://crates.io/crates/raw_sync)
 [![mio](https://docs.rs/raw_sync/badge.svg)](https://docs.rs/raw_sync/)
-![Lines of Code](https://tokei.rs/b1/github/elast0ny/raw_sync-rs)
+![Lines of Code](https://tokei.rs/b1/github/haixuantao/raw_sync-rs)
+
+Pushed new version of raw_sync based on https://github.com/elast0ny/raw_sync-rs/pull/29 fix.
 
 This crate provides a lightweight wrapper around OS synchronization primitives.
 

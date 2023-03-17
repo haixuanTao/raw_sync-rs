@@ -1,5 +1,5 @@
 [package]
-name = "raw_sync"
+name = "raw_sync_2"
 description = "Lightweight wrapper around OS synchronization primitives"
 version = "0.1.5"
 authors = ["elast0ny <elast0ny00@gmail.com>"]
